@@ -2,8 +2,7 @@
 
 <div>
   <a href="https://github.com/jleonardoo">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jleonardoo&show_icons=true&theme=tokyonight">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jleonardoo&size_weight=0.5&count_weight=0.5&theme=tokyonight"">
+    <p><img align="center" src="https://github-readme-stats.shion.dev/api?username=jleonardoo&theme=dark&hide_border=false&include_all_commits=false&count_private=false" /></p>
 <div>
 <div>
   <p align="center">
